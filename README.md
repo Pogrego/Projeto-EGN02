@@ -1,2 +1,2 @@
 # Projeto-EGN02
-Projeto pessoal para Robo seguidor de Pista
+Projeto pessoal para Robo
